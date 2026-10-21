@@ -1,6 +1,7 @@
 {
  "work": "源氏物語竟宴記",
  "work_id": "gunsho11-genji-kyoenki",
+ "repo": "kumoi-no-fumigura/genji-monogatari-kyoenki",
  "yomi": "げんじものがたりきょうえんき",
  "category": "注釈",
  "editions": [
@@ -60,6 +61,5 @@
    ],
    "text": "岩かきつゝきかゝるふちなみなかれそふみかさや春の雨そゝきかへしてたみの世はゆたかなりさゝくるもゆるす御貢の限あれやことふきのみの九重のうち傳巴理載養蒼十三句傳惠九玄載ハ玖十一句宗養十三仍景七池九句元理十紹惠五宰相ニ紹巴十ニ心凹右源氏物語竟宴記以屋代弘賢藏本〓畢"
   }
- ],
- "repo": "kumoi-no-fumigura/genji-monogatari-kyoenki"
+ ]
 }
